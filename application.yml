@@ -1,0 +1,10 @@
+voltage:
+  keyserver:  
+    policyurl: https://voltage-pp-0000.devtest.pmt.walgreens.com/policy/clientPolicy.xml
+    sharedSecret: voltage123
+    identity: p2pe@walgreens
+  client:
+    cachepath: ../cache 
+    truststorepath: ../trust
+  format:
+    lowercasealphanumeric: LowerCaseAlphaNumeric
